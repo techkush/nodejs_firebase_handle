@@ -1,1 +1,5 @@
-# nodejs_firebase_handle
+# NODEJS Firebase Handling
+
+1. npm init
+2. npm install --save firebase
+
